@@ -1,4 +1,4 @@
-# training-vue
+# Vue-Forms
 
 ## Project setup
 ```
